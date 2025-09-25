@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repo
 <br>
-Author-saloni sengar
+Author-saloni singh sengar
